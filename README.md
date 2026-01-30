@@ -1,7 +1,9 @@
 # DASHBOARD-OF-MEDICAL
 This dashboard uses categorical data to compare ,  types and outcomes;  to measure beds, cost and doctor workload; time-based data to identify trends and peak periods; and percentage metrics to show utilization efficiency. It helps administrators quickly identify bottlenecks, resource pressure, and performance gaps for better hospital planning.
-#screenshot
+# screenshot
 https://github.com/soundhariya1110-debug/DASHBOARD-OF-MEDICAL/blob/main/screenshot%20WhatsApp%20Image%202026-01-30%20at%203.52.10%20PM.jpeg
+# medical excel
+https://github.com/soundhariya1110-debug/DASHBOARD-OF-MEDICAL/blob/main/soundhariya%20medical%20excel.docx
 
 Key Functional Requirements
 
