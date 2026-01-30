@@ -5,7 +5,7 @@ https://github.com/soundhariya1110-debug/DASHBOARD-OF-MEDICAL/blob/main/screensh
 # medical excel
 https://github.com/soundhariya1110-debug/DASHBOARD-OF-MEDICAL/blob/main/soundhariya%20medical%20excel.docx
 
-Key Functional Requirements
+# Key Functional Requirements
 
 Core Metrics (KPIs):
 Average Length of Stay (ALOS)
@@ -30,7 +30,7 @@ Filters for diagnosis category, procedure type, and insurance type
 Peak hour/day insights for staffing optimization
 Data Requirements
 
-Minimum dataset includes:
+# Minimum dataset includes:
 
 Patient Demographics (Age, Gender, Insurance Type)
 Admission & Discharge Records
